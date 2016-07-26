@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Алексей Лыженков](https://up.htmlacademy.ru/javascript/5/user/129160).
+* Студент: [Кривцов Владимир](https://htmlacademy.ru/profile/id223332).
 * Наставник: `Отсутствует`.
 
 ---
